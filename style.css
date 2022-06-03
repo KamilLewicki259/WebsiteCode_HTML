@@ -1,3 +1,11 @@
+html
+{
+	background: linear-gradient(lightgray,darkgray);
+	background-repeat: no-repeat;
+	background-position: centre;
+	background-size: cover;
+	background-attachment: fixed;
+}
 h1
 {
 	background-color: purple;

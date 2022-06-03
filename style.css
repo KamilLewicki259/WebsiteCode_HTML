@@ -1,0 +1,12 @@
+h1
+{
+	background-color: purple;
+}
+p
+{
+	border-style:groove;
+	padding: 5px;
+	font-family: cursive, "Ink Free";
+	font-weight: initial;
+	font-size: 18px;
+}
